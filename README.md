@@ -1,2 +1,3 @@
 # Foodzone.com
-a restaurant website 
+It is a restaurant website named "Foodzone" using HTML & CSS
+
